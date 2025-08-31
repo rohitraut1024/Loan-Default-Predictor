@@ -1,0 +1,19 @@
+# venv & caches
+.venv/
+__pycache__/
+*.pyc
+
+# data & artifacts
+data/data_processed/
+models/
+reports/
+
+# notebooks metadata
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+.vscode/
+
+# Streamlit cache
+.streamlit/
